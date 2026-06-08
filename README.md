@@ -58,19 +58,19 @@ pip install numpy pandas matplotlib scikit-learn tensorflow
 
 ### Project Architecture
 
-![Output 1](Images/architecture.png)
+<img src="Images/architecture.png" width="500">
 
 ### Training and Evaluation
 
-![Output 2](Images/training_graph.png)
+<img src="Images/training_graph.png" width="500">
 
 ### Workflow
 
-![Output 2](Images/workflow.png)
+<img src="Images/workflow.png" width="500">
 
 ### Final Results
 
-![Output 3](Images/result.png)
+<img src="Images/results.png" width="500">
 
 ## Applications
 
