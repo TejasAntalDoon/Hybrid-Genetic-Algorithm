@@ -58,19 +58,19 @@ pip install numpy pandas matplotlib scikit-learn tensorflow
 
 ### Project Architecture
 
-![Output 1](images/architecture.png)
+![Output 1](Images/architecture.png)
 
 ### Training and Evaluation
 
-![Output 2](images/training_graph.png)
+![Output 2](Images/training_graph.png)
 
 ### Workflow
 
-![Output 2](images/workflow.png)
+![Output 2](Images/workflow.png)
 
 ### Final Results
 
-![Output 3](images/result.png)
+![Output 3](Images/result.png)
 
 ## Applications
 
@@ -78,22 +78,6 @@ pip install numpy pandas matplotlib scikit-learn tensorflow
 * Machine Learning Model Tuning
 * Evolutionary Computing Research
 * Intelligent Decision Systems
-
-## Project Architecture
-
-<img src="images/architecture.png" width="800">
-
-## Training and Evaluation
-
-<img src="images/training_graph.png" width="800">
-
-## Workflow
-
-<img src="images/workflow.png" width="800">
-
-## Final Results
-
-<img src="images/result.png" width="800">
 
 ## Author
 
