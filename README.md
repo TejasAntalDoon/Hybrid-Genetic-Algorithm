@@ -79,6 +79,22 @@ pip install numpy pandas matplotlib scikit-learn tensorflow
 * Evolutionary Computing Research
 * Intelligent Decision Systems
 
+## Project Architecture
+
+<img src="images/architecture.png" width="800">
+
+## Training and Evaluation
+
+<img src="images/training_graph.png" width="800">
+
+## Workflow
+
+<img src="images/workflow.png" width="800">
+
+## Final Results
+
+<img src="images/result.png" width="800">
+
 ## Author
 
 **Tejas**
